@@ -37,13 +37,9 @@
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:cvxslgt@gmail.com'>cvxslgt@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/CVXSL/CVXSL"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/CVXSL/CVXSL"></a> hipsters and nerds have come here c:
 </p>
