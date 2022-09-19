@@ -40,6 +40,3 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:cvxslgt@gmail.com'>cvxslgt@gmail.com</a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/CVXSL/CVXSL"></a> hipsters and nerds have come here c:
-</p>
