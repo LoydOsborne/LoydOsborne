@@ -25,7 +25,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-/..
+<!--
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Radeon_RTX_480-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </p>
-../
+-->
 
 <p align='center'>
   Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
