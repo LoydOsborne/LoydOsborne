@@ -26,7 +26,7 @@
 </p> -->
 
 <p align='center'>
-  <a href="CVXSL's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350" height="400"></a>
+  <a href="CVXSL's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="100%" height="100%"></a>
   <a href="CVXSL's Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350"></a>
   
 <!-- [![CVXSL's GitHub stats](https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
