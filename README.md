@@ -1,11 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm CVXSL 👨‍💻
+  Hello there 👋 I'm Loyd Osborne 👨‍💻
 </h1>
 
 <p align='center'>
-  A Discord Bot and Minecraft Server Developer from Canada.
+  Hello everyone, I am the Founder and CEO of ScytedTV Studios. To put it simply, ScytedTV is my dream, and I made it come true at the age of 15. I am now 16 years old and a full-time high school student who is running a media studio on the side. I will do everything in power to make ScytedTV the best it can be, and you are already contributing by reading this message. Thank you for all of your love and support as I make this happen.
 </p>
 
 
