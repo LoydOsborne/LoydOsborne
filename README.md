@@ -45,8 +45,9 @@
 
 <p align='center'>
   Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<p align='center'>
   📫 How to reach me: <a href='mailto:loyd.osborne@scyted.tv'>loyd.osborne@scyted.tv</a>
 </p>
+
+<!-- <p align='center'>
+  📫 How to reach me: <a href='mailto:loyd.osborne@scyted.tv'>loyd.osborne@scyted.tv</a>
+</p> -->
