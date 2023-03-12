@@ -21,16 +21,9 @@
   
 </p>
 
-<!-- <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p> -->
-
 <p align='center'>
   <a href="CVXSL's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
   <a href="CVXSL's Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
-  
-<!-- [![CVXSL's GitHub stats](https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVXSL&theme=dark&layout=compact&hide_border=true) -->
 </p>
 
 <!--
@@ -44,10 +37,9 @@
 -->
 
 <p align='center'>
-  Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a> <\n>
-  📫 How to reach me: <a href='mailto:loyd.osborne@scyted.tv'>loyd.osborne@scyted.tv</a>
+  Do you like my projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-<!-- <p align='center'>
+<p align='center'>
   📫 How to reach me: <a href='mailto:loyd.osborne@scyted.tv'>loyd.osborne@scyted.tv</a>
-</p> -->
+</p>
