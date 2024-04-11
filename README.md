@@ -22,8 +22,8 @@
 </p>
 
 <p align='center'>
-  <a href="CVXSL's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
-  <a href="CVXSL's Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
+  <a href="Loyd's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=LoydOsborne&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
+  <a href="Loyd's Top Langs"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoydOsborne&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
 </p>
 
 <!--
