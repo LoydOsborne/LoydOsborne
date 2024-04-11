@@ -10,7 +10,7 @@
 
 
 
-<!-- <p align='center'>
+<p align='center'>
   
   <a href="https://discord.com/users/852572302590607361">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-</p> -->
+</p>
 
 <p align='center'>
   <a href="CVXSL's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=CVXSL&theme=dark&layout=compact&hide_border=true" width="350" height="100%"></a>
